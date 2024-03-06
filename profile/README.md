@@ -1,5 +1,5 @@
 
-# CSE-ICE-21 Organization Readme
+# CSE-ICE-21 Organization
 
 Welcome to the official repository of CSE-ICE-21, the Computer Science Engineering organization at the University of Moratuwa, dedicated to the Integrated Computer Engineering 21 Badge. This readme provides an overview of our organization, its goals, and how you can contribute to our vibrant community.
 
