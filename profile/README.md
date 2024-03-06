@@ -1,6 +1,18 @@
 
 # CSE ICE-21
-
+<p align="center">
+    <picture>
+      <source 
+        srcset="/Assets/O55GUV1.jpg"
+        media="(prefers-color-scheme: dark)"
+      />
+      <img 
+        src="/Assets/O55GUV1.jpg"
+        alt="Ice 21 banner"
+        width=80%
+       />
+    </picture>
+  </p>
 Welcome to the official Github organisation of _**ICE 21**_, Intergrated Computer Engineering, Department of Computer Science Engineering of the University of Moratuwa. This readme provides an overview of the organization, its' goals, and how you can contribute.
 
 ## About CSE ICE 21
